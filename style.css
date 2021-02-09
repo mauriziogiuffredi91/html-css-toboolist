@@ -24,7 +24,11 @@ body{
 
 
 .container{
-    background: red;
+    margin: 40px auto;
+    background: white;
+    height: 712px;
+    width: 900px;
+    
     
 }
 
