@@ -66,7 +66,7 @@ body{
     padding-bottom: 10px;
 }
 
-.new-task{
+.list{
     margin-left:50px;
 }
 
@@ -94,5 +94,16 @@ body{
     font-weight: lighter;
 }
 
-
+.goals{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background:#7f1eff;
+    border-radius: 18px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+}
 
