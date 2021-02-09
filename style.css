@@ -144,3 +144,29 @@ body{
     font-size: 14px;
     font-weight: lighter;
 }
+
+.website{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background:#c15d8c;
+    border-radius: 18px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.sales{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background:#71ab00a8;
+    border-radius: 18px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+}
