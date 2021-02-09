@@ -5,9 +5,8 @@
 }
 
 #logo{
-    margin: 20px;
+    margin-left: 20px;
+    vertical-align: middle;
 }
 
-#title{
-    display: inline-block;
-}
+
