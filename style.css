@@ -107,3 +107,40 @@ body{
     font-weight: lighter;
 }
 
+.remove{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    text-align: center;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    font-size: 10px;
+}
+
+.recruiting{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background:#47ab47;
+    border-radius: 18px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.mobile{
+    display: inline-block;
+    height: 30px;
+    width: 80px;
+    background:#d88d05;
+    border-radius: 18px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+}
