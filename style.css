@@ -1,12 +1,30 @@
 *{
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
-    
 }
+
+body{
+    background: #eeeeee;
+    margin: 0;
+}
+
+
 
 #logo{
     margin-left: 20px;
     vertical-align: middle;
 }
 
+.main-title{
+    background: white;
+    margin-top: 0;
+    padding: 20px;
+   
+}
+
+
+.container{
+    background: red;
+    height: ;
+}
 
