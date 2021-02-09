@@ -29,6 +29,16 @@ body{
     height: 712px;
     width: 900px;
     
+}
+
+.task-box{
+    display: inline-block;
+    background: dodgerblue;
+    height: 40px;
+    width: 76px;
+    margin-left: 50px;
+    margin-top: 40px;
     
 }
+
 
